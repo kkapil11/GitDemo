@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27" started-at="2020-04-22T08:25:39Z" finished-at="2020-04-22T08:25:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27" started-at="2020-04-22T08:25:39Z" finished-at="2020-04-22T08:25:39Z">
+      <class name="MavenDemoProject.AppiumTest">
+        <test-method status="PASS" signature="AppiumTestFirst()[pri:0, instance:MavenDemoProject.AppiumTest@35fc6dc4]" name="AppiumTestFirst" duration-ms="4" started-at="2020-04-22T08:25:39Z" finished-at="2020-04-22T08:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTestFirst -->
+        <test-method status="PASS" signature="AppiumTestSecond()[pri:0, instance:MavenDemoProject.AppiumTest@35fc6dc4]" name="AppiumTestSecond" duration-ms="0" started-at="2020-04-22T08:25:39Z" finished-at="2020-04-22T08:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTestSecond -->
+      </class> <!-- MavenDemoProject.AppiumTest -->
+      <class name="MavenDemoProject.RestAssuredAPITest">
+        <test-method status="PASS" signature="RestATestFirst()[pri:0, instance:MavenDemoProject.RestAssuredAPITest@7fe8ea47]" name="RestATestFirst" duration-ms="0" started-at="2020-04-22T08:25:39Z" finished-at="2020-04-22T08:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestATestFirst -->
+        <test-method status="PASS" signature="RestATestSecond()[pri:0, instance:MavenDemoProject.RestAssuredAPITest@7fe8ea47]" name="RestATestSecond" duration-ms="0" started-at="2020-04-22T08:25:39Z" finished-at="2020-04-22T08:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestATestSecond -->
+      </class> <!-- MavenDemoProject.RestAssuredAPITest -->
+      <class name="MavenDemoProject.SeleniumTest">
+        <test-method status="PASS" signature="SeleniumFirst()[pri:0, instance:MavenDemoProject.SeleniumTest@226a82c4]" name="SeleniumFirst" duration-ms="0" started-at="2020-04-22T08:25:39Z" finished-at="2020-04-22T08:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumFirst -->
+        <test-method status="PASS" signature="SeleniumSecond()[pri:0, instance:MavenDemoProject.SeleniumTest@226a82c4]" name="SeleniumSecond" duration-ms="0" started-at="2020-04-22T08:25:39Z" finished-at="2020-04-22T08:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumSecond -->
+      </class> <!-- MavenDemoProject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
